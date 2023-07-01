@@ -1,19 +1,7 @@
-# bulten
+# NewsPaper-Flutter-Api
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
 
 ![Ekran görüntüsü 2023-07-01 200305](https://github.com/seperet/NewsPaper-Flutter-Api/assets/91972196/6f94ab13-efad-4574-8713-335b9c51c5d9)
